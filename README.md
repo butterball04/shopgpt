@@ -1,6 +1,7 @@
 # ShopGPT
 
 ShopGPT provides large knowledge context using pinecone vector database and openai embeddings-api to help GPT provide product recommendations for your e-commerce store.
+![ShopGPT Demo Image](https://github.com/butterball04/shopgpt/blob/main/shopgpt.jpg)
 
 ## Installation
 
