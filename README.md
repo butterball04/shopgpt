@@ -41,10 +41,6 @@ Follow the prompts to input your questions and receive answers based on the embe
 
 For issues and questions, open an issue on the GitHub repository.
 
-## Contributing
-
-Contributions are welcome. Please fork the repo and submit a pull request.
-
 ## License
 
 Licensed under the MIT License.
